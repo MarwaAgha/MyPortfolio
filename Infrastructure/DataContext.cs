@@ -37,5 +37,6 @@ namespace Infrastructure
         public DbSet<Owner> Owner { get; set; }
         public DbSet<PortfolioItem> PortfolioItems { get; set; }
 
+
     }
 }
